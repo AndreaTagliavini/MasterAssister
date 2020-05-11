@@ -7,7 +7,7 @@
 # WARNING! All changes made in this file will be lost!
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from XMLParser.Parser import XMLParser
+from GUI import Actions
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow, parameters):
@@ -69,7 +69,11 @@ class Ui_MainWindow(object):
         MainWindow.setStatusBar(self.statusbar)
 
         self.retranslateUi(MainWindow)
-        self.pushButton.clicked.connect(lambda: self.on_click_load())
+        self.pushButton.clicked.connect(lambda: Actions.on_click_load(
+            self.ExaltTypeSelector.currentText(),
+            self.CharmViewer,
+            self.charmList.text()
+        ))
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
     def retranslateUi(self, MainWindow):
@@ -82,21 +86,4 @@ class Ui_MainWindow(object):
         self.charmListLabel.setText(_translate("MainWindow", "Charm list"))
         self.exportButton.setText(_translate("MainWindow", "Export"))
 
-    def on_click_load(self):
-        print("XMLParser/XMLFiles/" +
-                str(self.ExaltTypeSelector.currentText()) +
-                "Charms.xml")
-        try:
-            parser = XMLParser(
-                "XMLParser/XMLFiles/" +
-                str(self.ExaltTypeSelector.currentText()) +
-                "Charms.xml"
-            )
-            charm_list = str(self.charmList.text())
-            result = parser.get_charms_from_list(charm_list)
-            for x in result:
-                print(x[0].text)
-                print(x[1].text)
 
-        except Exception:
-            print("File not found")
