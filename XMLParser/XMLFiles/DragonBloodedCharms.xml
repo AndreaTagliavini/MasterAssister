@@ -1,0 +1,3128 @@
+<root>
+    <ability name="Archery">
+
+        <charme>
+            <title>
+DRAGON-GRACED ARROW
+            </title>
+            <inner>
+Cost: 1m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Archery 3
+Minimum Essence: 2
+Effect: On a successful Archery attack, the Dragon-Blooded
+may also inflict an elemental effect appropriate to his aspect
+on the target. Air will buffet the target, subtracting two dice
+from her next action. Earth triggers a tremor beneath the
+target’s feet, forcing her player to roll (Dexterity + Athletics),
+difficulty 2, to avoid falling. Fire will set the target on fi re for
+an action, dealing 4L damage. Water will fi ll the target’s lungs
+with seawater, adding another three ticks before his next action
+due to violent coughing. Wood will increase the damage of the
+Dragon-Blooded’s arrow by 2L due the thorns covering it.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+DRAGONFLY FINDS MATE
+            </title>
+            <inner>
+Cost: 1m
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Archery 3
+Minimum Essence: 2
+Effect: The Dragon-Blooded may try to deflect an incoming
+missile with an arrow of his own. The Exalt’s player rolls (Dexterity + Archery) and compares the results to the attacker’s
+player’s roll. The attack is parried only if the Dragon-Blooded’s
+successes equal or exceed the attacker’s.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+                HARVEST OF THE HUNTER
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Archery 3
+Minimum Essence: 2
+Effect: When this Charm is used, a plant of any kind near
+the Dragon-Blooded will instantly sprout a number of arrows
+equal to his Essence. The Dragon-Blooded can specify what
+kind of arrows he wants.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SEVEN-YEAR SWARM VOLLEY
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One action
+Combo: Yes
+Minimum Ability: Archery 4
+Minimum Essence: 2
+Effect: The Dragon-Blood must spend a base cost of 3 motes
+and 1 Willpower plus 1 mote per person to be protected,
+including himself. He must also have 2 arrows per person
+handy. The Dragon-Blood’s player rolls (Dexterity + Archery), and until his next action, his successes are subtracted
+from any ranged attacks made against the Dragon-Blood or
+his allies. The Dragon-Blood cannot take multiple actions
+when using this Charm.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SPARROW DIVES AT HAWK
+            </title>
+            <inner>
+Cost: 5m, 1wp
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Archery 4
+Minimum Essence: 3
+Effect: This Charm functions exactly like the Dragonfly
+Finds Mate Charm (see above), except that if the DragonBlood’s player’s successes on her (Dexterity + Archery) roll
+exceed those of her enemy, the remaining successes are
+applied as an Archery attack against that enemy. This is
+treated as a counterattack.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SWALLOWS DEFEND THE NEST
+            </title>
+            <inner>
+Cost: 1m/arrow
+Type: Extra Action
+Duration: Instant
+Combo: Yes
+Minimum Ability: Archery 3
+Minimum Essence: 2
+Effect: The Dragon-Blood can fire additional arrows in an
+attack, adding one arrow per mote spent up to the maximum
+of his Essence. Each arrow is fi red with the Dragon-Blood’s
+full dice pool.
+            </inner>
+        </charme>
+
+    </ability>
+
+
+    <ability name="Athletics">
+
+        <charme>
+            <title>
+BELLOWS-PUMPING STRIDE
+            </title>
+            <inner>
+Cost: 1m
+Type: Reflexive
+Duration: One scene
+Combo: Yes
+Minimum Ability: Athletics 3
+Minimum Essence: 2
+Effect: For a scene, the Dragon-Blooded can double his
+movement rate on all Move and Dash actions.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+EFFORTLESSLY RISING FLAME
+            </title>
+            <inner>
+Cost: 1m
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Athletics 2
+Minimum Essence: 1
+Effect: The Dragon-Blooded may instantly rise from a prone
+position or add two dice to his Athletics rating for the purposes of calculating jumping distance.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FALLING STAR MANEUVER
+            </title>
+            <inner>
+Cost: 1m per 2 dice
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Athletics 2
+Minimum Essence: 1
+Effect: The Dragon-Blooded can move more gracefully
+in combat. Each mote spent (up to the maximum of her
+permanent Essence) adds two dice of damage to a successful
+hand-to-hand attack.
+            </inner>
+        </charme>
+
+    </ability>
+
+    <ability name="Awareness">
+
+        <charme>
+            <title>
+                ALL-ENCOMPASSING EARTH SENSE
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Awareness 2
+Minimum Essence: 2
+Effect: While the Charm is in effect, the Dragon-Blood cannot
+be surprised by any means. The Dragon-Blood may extend this
+benefi t to companions at a cost of 2 extra motes per person.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FEELING THE DRAGON’S BONES
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Awareness 3
+Minimum Essence: 2
+Effect: So long as the Dragon-Blooded is touching the
+ground (or in a building doing so), she can sense anything
+else resting on the ground in a radius of (Awareness x 25)
+feet. The Dragon-Blood’s player must successfully roll (Intelligence + Awareness) to do so, gaining more information
+with more successes.
+            </inner>
+        </charme>
+
+    </ability>
+
+    <ability name="Bureaucracy">
+
+        <charme>
+            <title>
+BENEVOLENT MASTER’S BLESSING
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One scene
+Combo: No
+Minimum Ability: Bureaucracy 2
+Minimum Essence: 1
+Effect: For 1 mote per two dice, the Dragon-Blood can increase the Bureaucracy Ability of a trusted underling or for 1
+mote, he can divide his own Bureaucracy Ability dots among
+a group of underlings with no Bureaucracy Ability dots. The
+Dragon-Blooded cannot give out more dice than he has or
+more than double an underling’s Bureaucracy Ability.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+CONFLUENCE OF SAVANT THOUGHT
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: One scene
+Combo: No
+Minimum Ability: Bureaucracy 3
+Minimum Essence: 2
+Effect: The Dragon-Blood may instantly understand the inner
+workings of the bureaucracy with which she is confronted,
+knowing such details as who is in charge and where things
+are kept. She may also substitute her Bureaucracy for her
+Socialize Ability for Bureaucracy-related purposes.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+THOUGHTFUL GIFT TECHNIQUE
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Bureaucracy 4
+Minimum Essence: 2
+Effect: With a successful (Perception + Bureaucracy) roll,
+the Dragon-Blood can intuit what would be the perfect gift
+CHAPTER ONE • THE DRAGON-BLOODED 19
+— or the perfect bribe. However, the Charm does not provide
+the gift, or even easy access to it, but simply the knowledge
+of what sort of gift would secure a favorable response.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+THRASHING CARP SERENADE
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Bureaucracy 3
+Minimum Essence: 1
+Effect: The Dragon-Blood may bring any bureaucratic or
+administrative tasks going on within the sound of his voice
+to a standstill. The player of anyone attempting to succeed
+on a Bureaucracy roll must overcome the Dragon-Blood in
+an opposed (Stamina + Bureaucracy) roll.
+            </inner>
+        </charme>
+
+    </ability>
+
+    <ability name="Craft">
+
+        <charme>
+            <title>
+FLAW-FINDING EXAMINATION
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One minute
+Combo: Yes
+Minimum Ability: Craft 3
+Minimum Essence: 1
+Effect: The Dragon-Blood may attempt to fi nd the weak spot
+in some object, spending 1 mote for items she can touch or 3
+motes for items she can only observe. While the Dragon-Blood
+may then attempt to cure the fl aw, she will more often use
+the Charm to exploit it. Any damage inflicted on her next
+successful physical attack against the object will be doubled.
+If used against armor or a weapon, treat this as a disarming
+attempt, with a success destroying the item.
+            </inner>
+        </charme>
+
+
+        <charme>
+            <title>
+SHAPING HAND STYLE
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: One hour
+Combo: Yes
+Minimum Ability: Craft 2
+Minimum Essence: 1
+Effect: The Dragon-Blooded can enchant one of his hands
+so that it will perform the tasks of a tool — a pick axe, a
+hatchet, a hammer, etc. — while still functioning normally
+as a hand.
+            </inner>
+        </charme>
+
+
+    </ability>
+    <ability name="Dodge">
+        <charme>
+            <title>
+HOPPING FIRECRACKER EVASION
+            </title>
+            <inner>
+Cost: 2m
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Dodge 3
+Minimum Essence: 2
+Effect: If the Dragon-Blood’s player succeeds on a (Dexterity
++ Dodge) roll, she can dash up to ([Dexterity + 6 – wound
+penalties – mobility penalty) yards as a free action. This
+will usually take her out of hand-to-hand combat range,
+and allow her to evade most multiple attack Charms after
+the fi rst attack.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SMOKE OBSCURING EFFECT
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Dodge 4
+Minimum Essence: 2
+Effect: The Dragon-Blood can create an elemental effect
+— usually smoke, but possibly fog, dust or even swirling leaves
+— that distracts his enemies and gives his allies a greater
+opportunity to dodge attacks. Regardless of the nature of the
+distraction, the mechanical effect is the same: the DragonBlood must spend 1 mote per ally (up to a maximum of his
+Essence) and an additional 1 mote for every point by which
+each ally increases his DDV (up to the maximum of the
+Dragon-Blood’s own Dodge rating or double any particular
+ally’s Dodge rating, whichever is less).
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+THRESHOLD WARDING STANCE
+            </title>
+            <inner>
+Cost: 1m
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Dodge 2
+Minimum Essence: 1
+Effect: For the duration of one action, the Dragon-Blood
+can ignore all environmental penalties to her DDV, even in
+places where dodging would seemingly be impossible, such
+as on tree limbs or up to her knees in quicksand.
+            </inner>
+        </charme>
+
+
+        <charme>
+            <title>
+VIRTUOUS NEGATION DEFENSE
+            </title>
+            <inner>
+Cost: 2m
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Dodge 4
+Minimum Essence: 2
+Effect: If an ally within normal leaping distance (about fi ve
+yards) is subject to an attack, the Dragon-Blood can attempt
+to move her out of the way. The Dragon-Blood’s player must
+fi rst roll (Dexterity + Dodge). If he scores no successes, the
+attack proceeds normally. If he scores any successes, the
+Exalt can make himself the target of the attack instead of
+the ally. If his successes exceed half the attack dice pool,
+both the Dragon-Blooded and the ally automatically dodge
+without a roll.
+            </inner>
+        </charme>
+
+    </ability>
+
+    <ability name="Integrity">
+        <charme>
+            <title>
+INVIOLATE DRAGON SPIRIT
+            </title>
+            <inner>
+Cost: 10m, 1wp, 1hl
+Type: Simple
+Duration: Instant
+Combo: No
+Minimum Ability: Integrity 3
+Minimum Essence: 2
+Effect: The Dragon-Blood can instantly overcome the effects
+of any natural or unnatural compulsion. Most commonly used
+to instantly break the hold of narcotic or similar addictions
+without going through a lengthy withdrawal, the Charm can
+also act as a perfect parry against any Social attack, including those that incorporate unnatural Mental influence. The
+Willpower point spent on this Charm does not count toward
+the two-point maximum on Willpower points that must be
+spent within a scene (see Exalted, p. 180).
+            </inner>
+        </charme>
+
+
+         <charme>
+            <title>
+OATH OF THE TEN-THOUSAND DRAGONS
+            </title>
+            <inner>
+Cost: —
+Type: Permanent
+Duration: Permanent
+Combo: No
+Minimum Ability: Integrity 2
+Minimum Essence: 2
+Effect: The Dragon-Blood holds a heightened sense of loyalty to a particular group of people (just as Righteous Lion
+Defense grants a Solar a heightened sense of loyalty to an
+ideal). The group may be the Dragon-Blood’s Great House,
+her unit or ministry, her sworn brotherhood or even the
+Dragon-Blooded as a whole, although there is obvious danger
+in becoming preternaturally loyal to very large populations.
+When the Dragon-Blood is confronted by Social attacks that
+go against her loyalty to her chosen group, she automatically
+adds her Integrity to her Mental Defense Value.
+            </inner>
+        </charme>
+
+
+        <charme>
+            <title>
+TEN-THOUSAND DRAGONS FIGHT AS ONE
+            </title>
+            <inner>
+Cost: 3m
+Type: Reflexive
+Duration: One scene
+Combo: Yes
+Minimum Ability: Integrity 3
+Minimum Essence: 2
+Effect: For the duration of a scene, a Dragon-Blood can
+instantly dedicate himself to a new Intimacy — loyalty to
+another Dragon-Blood in his immediate vicinity. By doing so,
+the Dragon-Blood using this Charm may treat the loyalty as
+an additional Intimacy, with all the benefi ts and drawbacks
+thereof. There need be no particular form of connection
+between the Dragon-Blood and his new Intimacy — indeed,
+he may not even know her name — but the fact that she is
+a fellow Terrestrial Exalt is a source of comfort and strength
+to him. A Dragon-Blood may only forge a number of new
+Intimacies equal to his Conviction during a given scene.
+            </inner>
+        </charme>
+
+
+
+    </ability>
+
+    <ability name="Investigation">
+        <charme>
+            <title>
+BLOODHOUND’S NOSE TECHNIQUE
+            </title>
+            <inner>
+Cost: 6m/1wp
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Investigation 4
+Minimum Essence: 2
+Effect: After spending 10 minutes walking around a crime
+scene and then finding any evidence with a successful (Intelligence + Investigation) roll, the Dragon-Blooded can trace
+the evidence back to who left it.
+            </inner>
+        </charme>
+
+
+        <charme>
+            <title>
+HOMEWARD TRAIL DISCOVERY METHOD
+            </title>
+            <inner>
+Cost: 4m/1wp
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Investigation 4
+Minimum Essence: 3
+Effect: By simply meeting someone and coming with a few
+yards of him, the Dragon-Blooded can instantly know where
+the person’s home is.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+REVELATION OF ASSOCIATES HUNCH
+            </title>
+            <inner>
+Cost: 4m/1wp
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Investigation 4
+Minimum Essence: 2
+Effect: Upon meeting someone, the Dragon-Blood can gain
+an intuitive knowledge of the person’s closest associates.
+Each success on a (Perception + Investigation) roll gives the
+Dragon-Blood the name and a one-sentence description of
+one of the target’s allies, contacts or employers, beginning
+with those most important to the target.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SCENT-OF-CRIME METHOD
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Investigation 3
+Minimum Essence: 1
+Effect: By spending Essence and rolling (Manipulation
++ Investigation), the Dragon-Blood can tell which of the
+people currently before him is the most guilty. This is purely
+subjective; the guilty party the Dragon-Blood seeks might
+feel no guilt over her actions, while someone else might feel
+intensely guilty for some unrelated crime.
+            </inner>
+        </charme>
+
+
+
+    </ability>
+
+    <ability name="Larceny">
+        <charme>
+            <title>
+EARS OF THE SNOWY OWL
+            </title>
+            <inner>
+Cost: 1m
+Type: Simple
+Duration: One minute
+Combo: Yes
+Minimum Ability: Larceny 4
+Minimum Essence: 2
+Effect: While this Charm is in effect, the Dragon-Blooded
+can hear conversations going on in adjacent rooms as if there
+were no walls in place, ignoring any penalties associated with
+obstacles between her and the objects of her attention.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+OBSERVER AWARENESS METHOD
+            </title>
+            <inner>
+Cost: 1m
+Type: Refl exive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Larceny 2
+Minimum Essence: 1
+Effect: With just one success on a (Perception + Larceny)
+roll, the Dragon-Blooded will instantly know if he is being
+watched. Additional successes will pinpoint the specific
+location of observers.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+TRACKLESS WALK STYLE
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Larceny 3
+Minimum Essence: 2
+Effect: While this Charm is in effect, the Dragon-Blooded
+will leave no clues to her identity at a location, such as a crime
+scene or the like. The Charm does not prevent supernatural
+tracking attempts.
+            </inner>
+        </charme>
+
+    </ability>
+
+    <ability name="Linguistics">
+
+        <charme>
+            <title>
+LANGUAGE-LEARNING RITUAL
+            </title>
+            <inner>
+Cost: 5m/1wp
+Type: Simple
+Duration: One week
+Combo: Yes
+Minimum Ability: Linguistics 2
+Minimum Essence: 1
+Effect: The Dragon-Blood can become completely fluent in
+a foreign language after listening to it for an hour, mastering
+conversation and literacy
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+POISONED TONGUE TECHNIQUE
+            </title>
+            <inner>
+Cost: 2m/1wp
+Type: Simple
+Duration: Concentration
+Combo: Yes
+Minimum Ability: Linguistics 3
+Minimum Essence: 3
+Effect: The Dragon-Blood can manipulate a conversation
+she overhears, causing other listeners to hear what she desires
+instead of what was actually said. The Exalt’s player must roll
+(Manipulation + Linguistics), with the successes determining the level of control. Participants in the conversation
+may notice the effect with a reflexive (Wits + Perception)
+roll made by their players against a difficulty equal to the
+Dragon-Blood’s Essence.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+THOUSAND TONGUES MEDITATION
+            </title>
+            <inner>
+Cost: 4m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Linguistics 3
+Minimum Essence: 2
+Effect: For the duration, the Dragon-Blood can speak and
+understand any spoken foreign language. However, communication is limited; the Dragon-Blood’s social and communicative
+actions are at a -4 penalty, reduced by 1 for each point of
+permanent Essence by which she exceeds the minimum.
+            </inner>
+        </charme>
+
+    </ability>
+
+    <ability name="Lore">
+
+        <charme>
+            <title>
+ELEMENTAL BOLT ATTACK
+            </title>
+            <inner>
+Cost: 1m per 2L
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Lore 2
+Minimum Essence: 2
+Effect: The Dragon-Blood can fi re a bolt of elemental energy
+appropriate to her aspect from her hand toward a target. The
+bolt is targeted with (Dexterity + Athletics) or (Dexterity
++ Archery), whichever is preferred, with an accuracy bonus
+equal to the Dragon-Blood’s Essence and a range of (Essence
+x 20) yards. The bolt inflicts 2L damage per mote spent, up
+to a maximum number of motes equal to the Dragon-Blood’s
+Stamina. At the Storyteller’s discretion, depending on the
+elemental type, the attack might also have “special effects,”
+such as a water bolt extinguishing a small fi re or a fi re bolt
+igniting flammable material.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+ELEMENTAL BURST TECHNIQUE
+            </title>
+            <inner>
+Cost: 1m per 1L
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Lore 3
+Minimum Essence: 2
+Effect: As per Elemental Bolt Attack (see above) except that
+the Charm produces an elemental burst with a radius equal
+to the Dragon-Blood’s Essence in yards and the damage is
+only 1L per mote spent.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+ELEMENTAL EMPOWERMENT MEDITATION
+            </title>
+            <inner>
+Cost: 1+ wp
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Lore 2
+Minimum Essence: 1
+Effect: The Dragon-Blood can draw Essence directly from his
+element, regaining a number of motes equal to his Lore Ability for every Willpower point spent. If the Dragon-Blooded
+spends more Willpower points in a day than his Essence,
+each additional use of Willpower for this Charm will also
+inflict one level of unsoakable bashing damage.
+            </inner>
+        </charme>
+
+    </ability>
+
+    <ability name="Martial Arts">
+
+        <charme>
+            <title>
+AIR DRAGON FORM
+            </title>
+            <inner>
+Cost: 5m
+Type: Simple
+Duration: One scene
+Combo: No
+Minimum Ability: Martial Arts 4
+Minimum Essence: 2
+Effect: After a successful (Dexterity + Martial Arts) roll
+to activate the form, the Immaculate can add her Martial
+Arts to any ranged attack, up to the maximum of doubling
+her normal Archery or Thrown Ability. Also, her DDV is
+increased by half of her Martial Arts rating for the scene.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+AIR DRAGON’S SIGHT
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Martial Arts 2
+Minimum Essence: 1
+Effect: The Immaculate cannot be surprised or ambushed, and
+when this Charm is used outside of combat, his player may
+add the Dragon-Blood’s Essence to any Awareness roll.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+AVENGING WIND STRIKE
+            </title>
+            <inner>
+Cost: 3m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: In a successful attack, in addition to taking damage as normal, the target’s player must make a reflexive
+(Strength + Athletics) roll for the target. The target will be
+knocked back 10 yards for every dot the Immaculate has in
+Martial Arts minus fi ve yards per success on the (Strength
++ Athletics) roll.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+BREATH-SEIZING TECHNIQUE
+            </title>
+            <inner>
+Cost: 4m
+Type: Simple
+Duration: (Martial Arts) actions
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 1
+Effect: On a successful strike, instead of rolling damage, roll
+the Immaculate’s (Strength + Martial Arts), opposed by the
+target’s (Stamina + Resistance). Each net success inflicts a
+cumulative -1 internal penalty on the target; if penalties ever
+double the target’s Stamina, she is rendered unconscious.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+CLOUD TREADING METHOD
+            </title>
+            <inner>
+Cost: 3m
+Type: Reflexive
+Duration: (Martial Arts) actions
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: While the Charm is in effect, the Immaculate’s
+movement rate and leaping distance are doubled, and he
+no longer needs to touch solid ground (allowing him to run
+up smoke trails, for example). He must remain moving or
+gravity takes over, but he is otherwise free to act.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+HURRICANE COMBAT METHOD
+            </title>
+            <inner>
+Cost: 10m, 1wp + 1hl per action
+Type: Refl exive
+Duration: (Martial Arts) actions
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 4
+Effect: For up to (Martial Arts) actions, the Immaculate
+can increase her DDV by half her Martial Arts and half the
+speed of any Martial Arts attacks she makes. She can also
+triple her movement and double her jumping height, and,
+additionally, she can make a number of extra attacks (Martial
+Arts or ranged) per action equal to her Essence. Willpower
+and motes are paid up front, and at the end of the Charm’s
+duration, the Immaculate takes one level of unsoakable
+bashing damage for each action the Charm lasted.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+LIGHTNING STRIKE STYLE
+            </title>
+            <inner>
+Cost: 4m, 1hl
+Type: Simple
+Duration: (Martial Arts) actions
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: The Immaculate can make martial arts attacks at a
+distance of (Essence x 10) feet, inflicting (Strength + Essence)
+in lethal electrical damage. Martial arts weapons add to ac-
+CHAPTER ONE • THE DRAGON-BLOODED 23
+curacy and damage as normal, but the Immaculate must pay
+1 extra mote for using any weapon other than a chakram.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SHROUDING THE BODY AND MIND
+            </title>
+            <inner>
+Cost: 4m
+Type: Simple
+Duration: (Martial Arts) actions
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: The Immaculate can render himself virtually invisible for a number of actions equal to his Martial Arts rating.
+Onlookers attempting to spot the Immaculate must roll
+(Perception + Awareness), at a difficulty ranging from 1 for
+onlookers who saw him disappear to 5 for people with no
+reason to suspect his presence. Additionally, for every action
+the Immaculate evades detection, the difficulty to spot him
+increases, up to a maximum of 5.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+THUNDERCLAP KATA
+            </title>
+            <inner>
+Cost: 5m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: The Immaculate can clap her hands together to create
+a thunderclap. The player of anyone within (Essence x 10)
+yards of the Immaculate must make a reflexive (Stamina +
+Resistance) roll for his character with a difficulty equal to
+the Immaculate’s Essence. If successful, the target will lose
+his next action but suffer no further penalty. Otherwise, the
+attack inflicts (Strength + Martial Arts) bashing damage,
+which cannot be soaked with armor. The attack also deafens
+the target for a number of actions equal to the Immaculate’s
+Essence, and the target loses (Essence) dice from all dice
+pools due to disorientation. The Immaculate can render
+select persons immune to the Charm’s effects at a cost of 1
+mote per person.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+TORNADO OFFENSE TECHNIQUE
+            </title>
+            <inner>
+Cost: 3m per attack
+Type: Extra Action
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 4
+Minimum Essence: 2
+Effect: While performing a flurry, for every 3 motes spent,
+the Immaculate may make one additional ranged or Martial
+Arts attack with his full dice pool. The total number of attacks cannot exceed his Martial Arts Ability.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WIND DRAGON SPEED
+            </title>
+            <inner>
+Cost: 2m
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 2
+Minimum Essence: 2
+Effect: On the Immaculate’s next Martial Arts attack, her
+attack’s speed is reduced by her Martial Arts rating (to a
+minimum of 1), and its DV penalty is only -1.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WRATHFUL WINDS MANEUVER
+            </title>
+            <inner>
+Cost: 4m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: The Immaculate utters a shout, unleashing a gale-force
+blast from his mouth in a 90-degree arc, out to a distance
+of (Essence x 10) feet. The player of anyone in the area of
+effect must make a (Strength + Athletics) roll to avoid her
+character being knocked down (difficulty is equal to the
+Immaculate’s Martial Arts) and a (Wits + Resistance) roll to
+avoid her character being stunned for her next action. The
+Immaculate may also spend a point of Willpower to focus
+the shout on a single target (who cannot avoid the attack
+without an impenetrable defense), inflicting (Strength +
+Essence) lethal damage, which bypasses armor. In addition,
+the difficulty to avoid knockdown for a single target is equal
+to (the Immaculate’s Strength + Essence).
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+AVALANCHE METHOD
+            </title>
+            <inner>
+Cost: 5m
+Type: Supplemental
+Duration: Special
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: On a successful bare-handed attack by the Immaculate,
+his player can make a (Strength + Martial Arts) roll resisted
+by the target’s (Stamina + Athletics). If the Immaculate wins
+or ties, then, in addition to the normal damage inflicted, each
+success subtracts one die from all dice pools for physical actions
+so long as the Immaculate can see the target. If the successes
+exceed the target’s Stamina, the target is completely immobilized, but only so long the Immaculate maintains physical
+contact with her. As long as the Immaculate can maintain
+the proper contact, the Charm can last indefinitely.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+EARTH DRAGON FORM
+            </title>
+            <inner>
+Cost: 4m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Martial Arts 4
+Minimum Essence: 2
+Effect: The Immaculate’s player must fi rst succeed in a (Dexterity + Martial Arts) roll for the Dragon-Blood to assume
+the Earth Dragon Form. Thereafter, she can add her Martial
+Arts to her bashing and lethal soak and can soak aggravated
+damage with her Martial Arts.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+EARTHSHAKER ATTACK
+            </title>
+            <inner>
+Cost: 5m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: While standing on an earthen surface, the Immaculate
+stamps her foot, and the players of everyone within (Essence x 10) feet must make (Dexterity + Resistance) rolls
+with a diffi culty of the Immaculate’s Essence to avoid their
+characters being knocked down. Anyone knocked down
+will take bashing damage equal to the Immaculate’s Martial
+Arts, soaked as normal.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FORCE OF THE MOUNTAIN
+            </title>
+            <inner>
+Cost: 2m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 1
+Effect: The Immaculate can add his Essence to the damage
+of the next Melee or Martial Arts attack he lands. If using a
+melee weapon other than one of the Earth Dragon’s signature weapons — the sledge or tetsubo — he must spend an
+additional mote of Essence.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+HUNGRY EARTH STRIKE
+            </title>
+            <inner>
+Cost: 5+m, 1wp
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: The Immaculate must strike the earth with an open
+palm. Immediately thereafter, the ground beneath her target
+will open up beneath her feet and then slam shut, immobilizing
+her. The Immaculate’s player must roll (Strength + Martial
+Arts) in a reflexive opposed roll against the target’s (Wits
++ Athletics). Each net success for the Immaculate adds 1
+to the difficulty of all rolls for physical actions made for the
+target. The target cannot move until her player succeeds in
+a (Strength + Athletics) roll with a difficulty equal to the
+Immaculate’s net successes, which requires a full action. If
+the Immaculate’s net successes exceed the target’s Strength,
+the target is sucked all the way into the ground, and the net
+successes are considered to be doubled when the target attempts escape. The Immaculate can target multiple enemies
+for 1 mote per extra target up to a maximum of double her
+Essence.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+PERFECTION OF EARTH BODY
+            </title>
+            <inner>
+Cost: 10m, 1wp
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 5
+Effect: After a moment’s concentration, the Immaculate
+transforms his body into living stone. His Strength is doubled,
+and his hand-to-hand attacks cause lethal damage. Also, he
+adds his Essence to his accuracy, damage and defense values,
+and he soaks lethal damage with his entire Stamina and adds
+his Essence score to his bashing soak. Finally, the Immaculate
+can ignore all wound penalties for the Charm’s duration. This
+Charm is incompatible with armor.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SHATTERING FIST STRIKE
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: (Martial Arts) actions
+Combo: Yes
+Minimum Ability: Martial Arts 4
+Minimum Essence: 2
+Effect: For the duration of the Charm, any damage the
+Immaculate inflicts on objects (but not living things) is
+doubled.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+STILLNESS OF STONE
+            </title>
+            <inner>
+Cost: 3m
+Type: Supplemental
+Duration: Special
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: If the Immaculate successfully harms a target with a
+bare-handed attack, the target will be paralyzed and rendered
+Inactive for fi ve ticks per level of damage infl icted. If the
+target is slain, her body will turn to stone.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+STONE DRAGON’S SKIN
+            </title>
+            <inner>
+Cost: 2m
+Type: Refl exive
+Duration: One action
+Combo: Yes
+Minimum Ability: Martial Arts 4
+Minimum Essence: 2
+Effect: The Immaculate can add his Martial Arts Ability as
+armor against lethal and bashing damage until his next action
+and can also parry weapons with his bare hands.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+UNMOVING MOUNTAIN STANCE
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: (Martial Arts) minutes
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 1
+Effect: The Immaculate can add her Essence in automatic
+successes to any attempt to resist being moved or knocked
+down and to any attempt to avoid being discovered or located
+while she is not moving
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WEAPON-BREAKING DEFENSE TECHNIQUE
+            </title>
+            <inner>
+Cost: Special
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 3
+Effect: The Immaculate may parry either bare-handed or with a
+weapon. If successful, his player can make a refl exive (Strength
++ Martial Arts) roll for the Dragon-Blood to destroy the weapon.
+The difficulty is 1 for normal weapons, 3 for exceptional
+weapons and 5 for weapons forged of magical materials. Even
+if the Immaculate fails to destroy the weapon, its bearer’s player
+must succeed in a reflexive opposed (Strength + Athletics) roll
+against the Immaculate’s player or her character is disarmed.
+The Essence cost of the Charm is equal to the difficulty to
+destroy the weapon and is paid before the attempt.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+BREATH OF THE FIRE DRAGON
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: The Immaculate can spit a gout of fl ame up to (Essence) yards. The attack roll is her (Perception + Martial
+Arts), adding her Essence as automatic successes. For every
+mote spent (up to the maximum of her Martial Arts), the
+attack inflicts Essence in lethal damage dice.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+CONSUMING MIGHT OF THE FIRE DRAGON
+            </title>
+            <inner>
+Cost: 6m, 1wp
+Type: Simple
+Duration: One scene
+Combo: No
+Minimum Ability: Martial Arts 5
+Minimum Essence: 4
+Effect: For an Aspect of Fire using this Charm, the effects of
+his anima power are tripled. For non-Fire Aspects, the Charm
+allows the Immaculate to use the Fire Aspect anima power
+at its normal level. Also, anyone viewing the Immaculate,
+regardless of his aspect, is affected as if by the Overwhelming Fire Majesty Stance (see below) except that the effects
+last for an entire scene and the Immaculate is free to attack
+and/or use Charms.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+ESSENCE-IGNITING NERVE STRIKE
+            </title>
+            <inner>
+Cost: 5m, 1wp
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: On a successful strike, the target does not take normal
+damage, but instead takes one level of lethal damage for every mote of Essence in her Personal Essence pool, up to the
+maximum of twice the Immaculate’s permanent Essence. The
+damage ignores armor but can otherwise be soaked normally.
+This Charm does not affect the Essence motes in the target
+but simply uses them as a catalyst for damage.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FIERY HAND ATTACK 
+            </title>
+            <inner>
+Cost: 4m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: On a successful Martial Arts strike, the Immaculate
+adds his Ability rating in damage, and all damage inflicted
+26
+is lethal. Additionally, the Immaculate’s player reflexively
+rolls (Strength + Martial Arts), resisted by the target’s
+(Stamina + Resistance). If the Immaculate’s player succeeds, the target will also burst into fl ame that can only
+be doused by magic and that will inflict 6L per action for
+(Martial Arts) actions. Targets can reduce damage to 2L
+each action with a successful (Stamina + Resistance) roll
+at difficulty 3.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FIRE DRAGON FORM
+            </title>
+            <inner>
+Cost: 5m
+Type: Simple
+Duration: One scene
+Combo: No
+Minimum Ability: Martial Arts 4
+Minimum Essence: 2
+Effect: The Immaculate’s player must successfully roll
+(Dexterity + Martial Arts) for the Dragon-Blood to invoke
+the form. For the remainder of the scene, the Immaculate
+increases her DDV by half of her Martial Arts Ability. Also,
+the Immaculate’s bashing attacks inflict lethal damage instead
+due to tremendous heat.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FLAME-FLICKER STANCE
+            </title>
+            <inner>
+Cost: Varies
+Type: Reflexive
+Duration: One action
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: For each mote the Immaculate spends (up to the
+maximum of her permanent Essence), her active DV increases by 1.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FLASH-FIRE TECHNIQUE
+            </title>
+            <inner>
+Cost: 3m
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 1
+Effect: The Immaculate may reroll his Join Battle roll and
+take the best of the two results.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+OVERWHELMING FIRE MAJESTY STANCE
+            </title>
+            <inner>
+Cost: 4m
+Type: Supplemental
+Duration: Varies
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: While the Immaculate maintains the stance, anyone trying to attack her must subtract her Martial Arts
+from his dice pool when doing so. Anyone trying to attack
+one clearly allied with the Immaculate must subtract half
+that number, up to a range of the Immaculate’s Essence in
+yards. The Immaculate can defend herself and take normal
+actions but cannot make attacks or use other Charms while
+maintaining the stance; the effect lingers for three ticks after
+the stance is dropped.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SEARING FIST ATTACK
+            </title>
+            <inner>
+Cost: 3m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: When the Dragon-Blooded inflicts damage on his
+target with a Martial Arts blow and activates this Charm,
+the Dragon-Blooded causes a searing pain in his target that
+infl icts a -1 penalty to the target’s dice pools for the remainder of the scene. This penalty is in addition to any other
+wound penalties, and additional uses of this Charm have a
+cumulative effect.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SMOLDERING WOUND ATTACK
+            </title>
+            <inner>
+Cost: 4m
+Type: Supplemental
+Duration: Varies
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: If the Immaculate successfully damages her opponent,
+then, on her following action, the post-soak damage is rolled
+again. No soak is applied to the second action.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FIVE-DRAGON BLOCKING TECHNIQUE
+            </title>
+            <inner>
+Cost: 4m, 1wp
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: The Dragon-Blood increases his PDV by half of his
+permanent Essence. If unarmed, he can parry lethal attacks
+without a stunt.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FIVE-DRAGON CLAW
+            </title>
+            <inner>
+Cost: 1m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 1
+Effect: The Dragon-Blood inflicts lethal damage instead of
+bashing on an unarmed attack.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FIVE-DRAGON FIST
+            </title>
+            <inner>
+Cost: 6m, 1wp, 1hl
+Type: Simple
+Duration: Instant
+Combo: No
+Minimum Ability: Martial Arts 5
+Minimum Essence: 4
+Effect: The Dragon-Blood can make a single punch or kick
+that inflicts aggravated damage. This Charm cannot be
+channeled through a weapon.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FIVE-DRAGON-FORCE BLOW
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: The Dragon-Blood may double the normal base damage
+from an attack (but not extra successes) before subtracting
+soak. Also, the attack may knock her opponent down and
+stun him for one action with a successful (Strength + Martial
+Arts) roll made by the Dragon-Blood’s player, resisted by the
+target’s (Strength + Resistance).
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FIVE-DRAGON FORM
+            </title>
+            <inner>
+Cost: 5m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Martial Arts 4
+Minimum Essence: 3
+Effect: The Dragon-Blood inflicts lethal damage with her
+Martial Arts attacks instead of bashing and soaks lethal damage with her full bashing soak. Also, she can add her Essence
+to her Dexterity or Strength for determining running speed,
+jumping distance or feats of strength.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FIVE-DRAGON FORTITUDE
+            </title>
+            <inner>
+Cost: 1m per 2B or 1L
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: The Dragon-Blood may augment his soak against
+a specific attack, at a cost of 1 mote per two bashing or 1
+mote per one lethal. This soak is compatible with the use
+of armor.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FIVE-DRAGON INVULNERABILITY
+            </title>
+            <inner>
+Cost: 5m, 1wp
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 4
+Effect: When the Charm is used, the Dragon-Blood can
+ignore all damage from a single non-magical attack. Against
+magical attacks (including weapons made of the fi ve magical
+materials), the Dragon-Blood receives a soak bonus equal
+to (Essence).
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FIVE-DRAGON WRATH
+            </title>
+            <inner>
+Cost: 1m per attack + 1hl
+Type: Extra Action
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 4
+Effect: The Dragon-Blood can make one extra attack per mote
+spent at his full attack dice pool. The maximum number of
+attacks is equal to (Essence), and the defender’s player may
+make only one dodge and/or parry roll, which is compared to
+all attacks. Using this Charm inflicts one level of unsoakable
+bashing damage on the Dragon-Blood.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+BECOME THE HAMMER
+            </title>
+            <inner>
+Cost: 1m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: The Dragon-Blooded’s unarmed attack inflicts lethal
+damage.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+BLADE-DEFLECTING PALM
+            </title>
+            <inner>
+Cost: 1m
+Type: Refl exive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 1
+Effect: Even if unarmed, the Dragon-Blooded can apply
+his PDV to any Martial Arts or Melee attacks that inflict
+lethal damage.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FLOW PAST DEFENSES
+            </title>
+            <inner>
+Cost: 2m + 2m per action
+Type: Supplemental
+Duration: One action
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 2
+Effect: If the Dragon-Blooded successfully puts her opponent
+into a clinch, her net successes on the initial attack roll are
+28
+subtracted from the target’s soak for the next action. She
+can continue to use this Charm, paying 2 motes per action
+until the target breaks free or is released.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+POUNDING SURF STYLE
+            </title>
+            <inner>
+Cost: 1m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 2
+Minimum Essence: 1
+Effect: On a successful hand-to-hand attack, the DragonBlooded ignores one point of the target’s soak. Each successive
+time this Charm is used in a scene, the Dragon-Blooded
+ignores one additional point of soak. No other attacker gains
+the benefit of this cumulative soak reduction.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+BOTTOMLESS DEPTHS DEFENSE
+            </title>
+            <inner>
+Cost: 5m, 1hl
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: When this Charm is activated, the Immaculate immediately takes one level of aggravated damage, but ignores
+all other damage inflicted on him from a single attack.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+CRASHING WAVE STYLE
+            </title>
+            <inner>
+Cost: 4m
+Type: Extra Action
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: On a successful Martial Arts attack, the Immaculate
+who invokes this Charm may make a second attack at -1
+die to his pool. If the second attack succeeds, he can make a
+third attack at -2 and a fourth at -4. The die penalty doubles
+on each subsequent attack, and the Charm ends when the
+Immaculate fails an attack, his dice pool is reduced to zero
+or the number of attacks equals his Martial Arts.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+DROWNING-IN-BLOOD TECHNIQUE
+            </title>
+            <inner>
+Cost: 4m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: The Immaculate must make a successful Martial Arts
+attack that does not inflict damage on the target. Instead, the
+Immaculate’s player rolls (Strength + Martial Arts), opposed
+by the target’s (Stamina + Resistance). If the Immaculate
+wins, the target suffers internal bleeding and loses one dot of
+Stamina for a number of actions equal to the Immaculate’s
+extra successes. Subsequent uses of the Charm are cumulative,
+and a target reduced to zero Stamina is dead.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+ESSENCE-DOUSING WAVE ATTACK
+            </title>
+            <inner>
+Cost: 8m, 1wp
+Type: Supplemental
+Duration: Varies
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 4
+Effect: The Immaculate makes a normal Martial Arts attack. If she inflicts damage, the Immaculate’s player makes
+an immediate reflexive (Essence + Martial Arts) roll with a
+difficulty of half the target’s Essence. For three ticks per success, any Charms or spells affecting the target are neutralized.
+If the number of successes exceeds the Essence of whoever
+invoked the Charm or cast the spell, the magic is completely
+dispelled. Charms and spells can be reactivated during this
+Charm’s duration, however.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FLOW REVERSAL STRIKE
+            </title>
+            <inner>
+Cost: 4m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: The Immaculate makes an unarmed Martial Arts attack that does normal damage. In addition, the target’s player
+must roll (Stamina + Resistance), as all the blood in the
+target’s veins reverses direction for an instant. The difficulty
+of the roll is equal to the Immaculate’s successes on the initial
+attack roll, unreduced by any dodge or parry successes. If an
+Exalted target fails to exceed those successes, he takes one
+level of unsoakable lethal damage. Even if he succeeds, his
+player must subtract two dice from all rolls for a number of
+actions equal to the Immaculate’s Martial Arts. Mortals are
+slain outright if the (Stamina + Resistance) roll fails.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FLOWING WATER DEFENSE
+            </title>
+            <inner>
+Cost: 1m
+Type: Refl exive
+Duration: (Essence) actions
+Combo: Yes
+Minimum Ability: Martial Arts 2
+Minimum Essence: 1
+Effect: While the Charm is in effect, the Immaculate subtracts
+one die from all attack pools, while anyone trying to attack
+her will subtract three dice from all attack pools.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+RIPPLING WATER STRIKE
+            </title>
+            <inner>
+Cost: 2m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: The Immaculate attacks a target as normal. In addition
+to the normal damage inflicted on the primary target, the Immaculate also infl icts a number of dice of bashing damage on
+everyone else within 10 feet of the target equal to the number
+of damage successes inflicted on the primary target.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SHRUGGING WATER DRAGON ESCAPE
+
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: The Immaculate with this Charm cannot be restrained.
+Mundane chains shatter, ropes snap and handcuffs drop away.
+The effects of supernatural restraints are nullified for (the
+Immaculate’s Martial Arts x 3) ticks.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+THEFT-OF-ESSENCE METHOD
+            </title>
+            <inner>
+Cost: 4m, 1wp
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: After a successful attack, the Immaculate’s player
+rolls (Essence + Martial Arts), stealing 3 motes of Essence
+for each success from his target and adding to his own reserve. The Essence gained from this Charm fades at a rate
+of 1 mote per minute.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+TSUNAMI FORCE SHOUT
+            </title>
+            <inner>
+Cost: 10m, 1wp, 1hl
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 4
+Effect: The Tsunami Force Shout radiates out from the Immaculate in a 45-degree arc extending out (Essence) yards,
+inflicting ([Essence + Martial Arts] x 2) damage. The player of
+anyone within the area of effect must make a reflexive Essence
+roll. On a botch, the damage for that target is aggravated,
+and any damage not soaked is an automatic success. If the
+Essence roll fails, the damage is aggravated but soaked and
+rolled normally. If the roll succeeds, the damage is lethal and
+rolled normally. With three or more successes on the Essence
+roll, the damage is bashing
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WATER DRAGON FORM
+            </title>
+            <inner>
+Cost: 5m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Martial Arts 4
+Minimum Essence: 3
+Effect: The Immaculate’s player must succeed on a (Dexterity
++ Martial Arts) roll for the Exalt to activate the Water Dragon
+Form. Thereafter, she receives a bashing and lethal soak bonus
+equal to her Martial Arts and can soak lethal damage with
+her full Stamina. Also, when successfully attacked, she can
+further augment her soak reflexively by spending 1 mote per
+two points of soak. This only applies to a single attack, and
+the Essence must be spent before the attacker rolls damage.
+Finally, the Charm adds the Immaculate’s Essence to her
+Martial Arts Ability for the Charm’s duration.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+DEATH-PATTERN SENSING ATTITUDE
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 4
+Effect: To activate this Charm, the Immaculate must spend
+a base cost of 5 motes and 1 Willpower. Thereafter, she can
+apply her full DDV to any attacks launched against her at a
+cost of 1 mote, up to a maximum number of dodges between
+action ticks equal to her Essence. However, she can only
+dodge attacks by beings with a spirit (including undead).
+She cannot dodge traps, falling rocks or attacks by automata.
+Finally, she cannot dodge ranged attacks made from beyond
+a radius of her Essence in yards.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+ENTHRALLING BLOW ATTACK
+            </title>
+            <inner>
+Cost: 8m, 1wp
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: The Immaculate must make a successful Martial
+Arts attack on her target. Instead of rolling damage, her
+player must reflexively roll the Exalt’s (Essence + Martial
+Arts) opposed by the target’s (Essence + Integrity). If the
+Immaculate wins, the target is enthralled, losing his next
+action. In subsequent actions, the target’s player can attempt
+to have the target shake off the effects by rolling (Essence
++ Integrity) at a difficulty of (1 + the successes rolled by the
+30
+Immaculate’s player on the opposed roll). This Charm only
+works on living creatures.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+EYES OF THE WOOD DRAGON
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: Special
+Combo: Yes
+Minimum Ability: Martial Arts 2
+Minimum Essence: 2
+Effect: After invoking this Charm, the Immaculate must
+successfully attack his target within fi ve actions or the Essence is wasted. On a successful attack, the Immaculate’s
+player rolls his character’s Essence as extra damage dice.
+These extra damage dice bypass the target’s armor.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+MIND-OVER-BODY MEDITATION
+            </title>
+            <inner>
+Cost: 2m per hl
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+Effect: For every 2 motes spent, the Immaculate can heal
+one level of bashing damage inflicted upon him.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SOUL-MARKING STRIKE
+            </title>
+            <inner>
+Cost: 3m
+Type: Supplemental
+Duration: One scene
+Combo: Yes
+Minimum Ability: Martial Arts 4
+Minimum Essence: 3
+Effect: To enact this Charm, the Immaculate must successfully
+touch his opponent and spend the Essence. The target feels a
+sharp pain in her head but nothing more. For the remainder
+of the scene, however, the Immaculate gains an automatic
+success on any attack rolls made against a target who has
+been branded. Multiple soul mark effects are cumulative.
+For 24 hours after branding a target, the Immaculate can
+sense when a branded being is within (Essence) yards and
+which being it is.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SOUL MASTERY
+            </title>
+            <inner>
+SOUL MASTERYCost: 10m, 1hl
+Type: Simple
+Duration: (Essence) actions
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 4
+Effect: After activating this Charm, a black aura will linger
+on the Immaculate’s hands for (Essence) actions. During
+that time, the Immaculate must successfully touch his target,
+either casually or as part of a hand-to-hand attack inflicting
+normal damage. Upon touching a target, the Immaculate’s
+player makes a reflexive (Essence + Martial Arts) roll against
+the opponent’s (Stamina + Integrity). If the target loses, she
+is instantly slain. Even if she wins, the attack still inflicts
+aggravated damage dice equal to the Immaculate’s Essence.
+If the Immaculate fails to touch another target within the
+time allotted by the Charm, the Immaculate will suffer the
+effects of the Charm himself.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+UNBREAKABLE FASCINATION KATA
+            </title>
+            <inner>
+Cost: 4m
+Type: Simple
+Duration: Varies
+Combo: Yes
+Minimum Ability: Martial Arts 4
+Minimum Essence: 3
+Effect: As long as the Immaculate continues to exercise
+the kata, the player of anyone attempting to do anything
+other than stare at him with rapt fascination must successfully roll her character’s (Wits + Integrity), opposed by the
+Immaculate’s (Charisma + Martial Arts). While executing
+the kata, the Immaculate may speak, move at half pace or
+dodge. Any other action ends the Charm.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WOOD DRAGON FORM
+            </title>
+            <inner>
+Cost: 5m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Martial Arts 4
+Minimum Essence: 3
+Effect: The Immaculate’s player must successful roll (Dexterity
++ Martial Arts) for his character to invoke the Wood Dragon
+Form. Thereafter, he regenerates one health level of bashing
+damage every action and one health level of lethal damage every
+other action. If slain, he does not continue regenerating.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WOOD DRAGON SUCCOR
+            </title>
+            <inner>
+Cost: 3m per hl
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Martial Arts 5
+Minimum Essence: 3
+Effect: The Immaculate can heal others by drawing their
+wounds into her own body. By touching the injured target
+and spending the required Essence, the Dragon-Blooded can
+heal any type of injury but immediately suffers those injuries
+herself. She can, of course, heal those injuries herself with
+Wood Dragon Form, unless they are aggravated.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WOOD DRAGON VITALITY
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: One action
+Combo: Yes
+Minimum Ability: Martial Arts 3
+Minimum Essence: 2
+CHAPTER 31 ONE • THE DRAGON-BLOODED
+Effect: Until his next action, the Immaculate’s bashing soak
+is boosted by his Martial Arts rating, and he can soak lethal
+damage with his full Stamina.
+            </inner>
+
+        </charme>
+
+    </ability>
+
+    <ability name="Medicine">
+
+        <charme>
+            <title>
+DISEASE-BANISHING TECHNIQUE
+            </title>
+            <inner>
+Cost: 4m, 1wp
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Medicine 4
+Minimum Essence: 2
+Effect: The Dragon-Blood can cure any non-magical disease she has successfully diagnosed (see Exalted, p. 137)
+with a touch.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+DREAD INFECTION STRIKE
+            </title>
+            <inner>
+Cost: 2m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Medicine 3
+Minimum Essence: 2
+Effect: The Dragon-Blood can enchant
+her weapon so that any wounds it causes
+are much more likely to become infected.
+After this Charm is invoked, the difficulty
+to resist infection from one of the DragonBlood’s hits increases by 2. The Essence
+must be spent before the attack roll, and
+the attack must infl ict at least one health
+level of lethal damage.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+INFECTION-BANISHING PRANA
+            </title>
+            <inner>
+Cost: 1m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Medicine 2
+Minimum Essence: 2
+Effect: The Dragon-Blood can instantly
+cure any infection (although not the wounds
+that actually became infected). Furthermore, wounded persons treated with this
+Charm will not become infected under any
+circumstances, at least in any wounds they
+had when the Charm was used.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WOUND-CLOSING TOUCH
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Medicine 4
+Minimum Essence: 3
+Effect: For 1 mote, the Dragon-Blood can instantly staunch
+the bleeding of herself or another. The Dragon-Blood can
+also convert lethal wounds into bashing wounds for herself
+or others at a cost of 2 motes per damage level.
+            </inner>
+        </charme>
+
+    </ability>
+
+    <ability name="Melee">
+        <charme>
+            <title>
+DEADLY WILDFIRE LEGION
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Melee 4
+Minimum Essence: 2
+Effect: The Dragon-Blood can increase the Melee Ability
+ratings of his allies, at a cost of 1 mote per two dice (to a
+maximum of the Dragon-Blood’s Melee rating or double each
+ally’s individual rating) plus 1 mote per ally affected.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+DRAGON-GRACED WEAPON
+            </title>
+            <inner>
+Cost: 1m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Melee 2
+Minimum Essence: 2
+Effect: Per Dragon-Graced Arrow (see p. 17), except that the
+Charm supplements Melee attacks instead of Archery attacks.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+PORTENTOUS COMET DEFLECTING MODE
+            </title>
+            <inner>
+Cost: 3m, 1wp
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Melee 5
+Minimum Essence: 3
+Effect: After an opponent’s hand-to-hand attack, roll
+(Dexterity + Melee). Regardless of the attacker’s successes,
+if the Dragon-Blood achieves even one success, the attack is
+totally blocked. However, this Charm will not block sorcerous
+attacks or attacks enhanced by Charms.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+REFINING THE INNER BLADE
+            </title>
+            <inner>
+Cost: 3m, 1wp
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Melee 4
+Minimum Essence: 3
+Effect: With a moment’s concentration, the Dragon-Blood
+can conjure a sword fashioned entirely from the element to
+which she is aspected. The weapon has the stats of a normal
+weapon of its type, as well as the benefits conferred by the
+Dragon-Graced Weapon Charm (see above).
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+RINGING ANVIL ONSLAUGHT
+            </title>
+            <inner>
+Cost: 8m
+Type: Extra Action
+Duration: Instant
+Combo: Yes
+Minimum Ability: Melee 5
+Minimum Essence: 3
+Effect: The Dragon-Blooded can focus his attention on a
+single target and roll his unmodified Melee Ability. Each
+success allows the Dragon-Blooded to make one extra
+Melee attack against that target as part of a flurry, up to the
+maximum of his Melee Ability
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+THRESHING FLOOR TECHNIQUE
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One attack
+Combo: Yes
+Minimum Ability: Melee 4
+Minimum Essence: 2
+Effect: The Dragon-Blooded can overcome the normal
+limit on the number of people who can attack particular
+target. The Dragon-Blooded must pay 2 motes plus 1 mote
+per targeted ally, and each ally will thereafter be able to
+make an attack on the target, regardless of how defensible
+the target’s position, provided that the ally is within normal
+move distance of the target.
+            </inner>
+        </charme>
+
+
+    </ability>
+
+    <ability name="Occult">
+        <charme>
+            <title>
+TERRESTRIAL CIRCLE SORCERY
+            </title>
+            <inner>
+Cost: 1wp
+Type: Permanent
+Duration: Instant
+Combo: No
+Minimum Ability: Occult 3
+Minimum Essence: 3
+Effect: The Dragon-Blooded can cast spells of the Terrestrial
+Circle
+            </inner>
+        </charme>
+    </ability>
+    <ability name="Performance">
+        <charme>
+            <title>
+MASTERFUL ENSEMBLE TECHNIQUE
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Performance 2
+Minimum Essence: 1
+Effect: The Dragon-Blood can divide up a number of dice
+equal to his Intelligence + Performance dice pool among a
+number of other, less talented performers. The cost is 1 mote
+per performer plus 1 mote per die given to each performer.
+The Dragon-Blood cannot give out more dice to a single
+person than his own Performance rating or more than double
+any one performer’s Performance rating.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SOUL-STIRRING PERFORMANCE METHOD
+            </title>
+            <inner>
+Cost: 5m, 1wp
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Performance 4
+Minimum Essence: 2
+Effect: A Dragon-Blooded performer can invoke a powerful
+emotional response in her audience. The Dragon-Blood’s
+player must roll (Charisma + Performance) and achieve one
+success for every 10 people in the audience. If successful (and
+the roll is all-or-nothing), the Dragon-Blooded can inspire
+a deep-seated emotion in the audience. Mere mortals are
+powerless to resist the effect, but persons with Essence ratings
+higher than 1 may attempt to resist it with an appropriate
+Virtue roll: Compassion for attempts to provoke anger,
+Conviction for attempts to inspire sadness, Temperance for
+attempts to provoke love and Valor for attempts to inspire
+fear. Successes on the Virtue roll subtract from the Dragon-
+CHAPTER ONE • THE DRAGON-BLOODED 33
+Blooded’s net successes as to that person only. However, if
+the emotion to be triggered resonates with a Solar’s primary
+Virtue, the normal Limit Break rules apply.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+TALENTED IMPROVISATION
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Performance 2
+Minimum Essence: 1
+Effect: There are a vast number of musical instruments in
+creation, more than any single Exalt could ever completely
+master. With this Charm, however, the Dragon-Blooded can
+instantly become proficient (if not more) with any single
+musical instrument. For the duration of the scene, the DragonBlooded can apply his Performance Ability without penalty
+to any instrument he doesn’t know. He can also intuitively
+understand forms of musical nota
+            </inner>
+        </charme>
+    </ability>
+    <ability name="Presence">
+        <charme>
+            <title>
+AUSPICIOUS FIRST MEETING ATTITUDE
+            </title>
+            <inner>
+Cost: 2m
+Type: Refl exive
+Duration: One scene
+Combo: No
+Minimum Ability: Presence 2
+Minimum Essence: 2
+Effect: In any non-combat, social situation, the Dragon-Blood
+can intuitively adjust his behavior so as to make the best possible
+fi rst impression with a particular individual who the Exalt is meeting for the fi rst time. Mechanically, the Dragon-Blooded gains
+two extra dice to roll on every Bureaucracy, Presence or Socialize
+roll during this fi rst encounter. If the Dragon-Blood deliberately
+antagonizes the subject in anyway, the effect ends.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+GLOWING COAL RADIANCE
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: One action
+Combo: Yes
+Minimum Ability: Presence 3
+Minimum Essence: 1
+Effect: Until the Dragon-Blooded’s next action, anyone
+attempting to attack or even look at him must score at least
+one success on a Willpower roll.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+PASSION TRANSMUTING NUANCE
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: One scene
+Combo: No
+Minimum Ability: Presence 2
+Minimum Essence: 2
+Effect: The Dragon-Blood can transmute one strong passion
+— lust, rage or terror — into one of the other two. She must
+fi rst engage her target in conversation for a number of (10 – her
+Essence) long ticks, and then, her player rolls (Manipulation
++ Presence) against a difficulty equal to the target’s Essence,
+minus 1 for every point by which the Dragon-Blood’s Essence
+exceeds the target’s. If successful, the Dragon-Blood gains two
+dice on all subsequent social combat rolls against the target
+designed to play off the target’s new emotional state.
+            </inner>
+        </charme>
+
+    </ability>
+
+    <ability name="Resistance">
+        <charme>
+            <title>
+IMPERVIOUS SKIN OF STONE MEDITATION
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Resistance 2
+Minimum Essence: 2
+Effect: Each mote spent (up to the maximum of her Essence)
+will increase the Dragon-Blooded’s bashing and lethal soak
+by 2.
+            </inner>
+        </charme>
+        <charme>
+            <title>
+MOUNTAIN TOPPLING METHOD
+            </title>
+            <inner>
+Cost: 4m
+Type: Supplemental
+Duration: One action
+Combo: Yes
+Minimum Ability: Resistance 2
+Minimum Essence: 2
+Effect: For one action, the Dragon-Blooded’s Strength increases by 5, but only for the purpose of lifting or handling
+stone or earthen objects, such as toppling pillars, hurling
+boulders or stomping on the top of a hill to start a landslide.
+Also, for the purposes of this Charm, jade-alloyed weapons
+such as daiklaves are considered to be stone, and the Strength
+bonus will apply to attacks made with such weapons.
+            </inner>
+        </charme>
+        <charme>
+            <title>
+OX-BODY TECHNIQUE
+            </title>
+            <inner>
+Cost: N/A
+Type: Special
+Duration: Permanent
+Combo: N/A
+Minimum Ability: Resistance 1
+Minimum Essence: 1
+Effect: Each time this Charm is taken (up to the maximum
+of the Dragon-Blooded’s Resistance Ability), she gains one
+-1 health level and one -2 health level.
+            </inner>
+        </charme>
+        <charme>
+            <title>
+STRENGTH OF STONE TECHNIQUE
+            </title>
+            <inner>
+Cost: 2m per person
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Resistance 2
+Minimum Essence: 1
+34
+Effect: After a moment’s meditation, the Dragon-Blooded
+adds one dot to his Strength and Stamina for the remainder of the scene. He can also add one dot in Strength and
+Stamina to any number of additional people for 2 motes per
+person. An individual can only benefit from this Charm
+once per scene.
+            </inner>
+        </charme>
+        <charme>
+            <title>
+UNEATING EARTH MEDITATION
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: One day
+Combo: Yes
+Minimum Ability: Resistance 3
+Minimum Essence: 2
+Effect: While this Charm is active, the Dragon-Blooded
+does not require food or water. However, after (Essence +
+Resistance) days, each additional day inflicts one level of
+bashing damage on the Dragon-Blood, which cannot be
+healed while the Charm is in use.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+UNSLEEPING EARTH MEDITATION
+            </title>
+            <inner>
+Cost: 1m
+Type: Simple
+Duration: One day
+Combo: Yes
+Minimum Ability: Resistance 2
+Minimum Essence: 2
+Effect: While this Charm is in effect, the Dragon-Blooded
+does not require sleep. However, after (Essence + Resistance) days, each additional day costs the Dragon-Blood 1
+temporary Willpower, which cannot be regained while this
+Charm is in use.
+            </inner>
+        </charme>
+
+    </ability>
+
+    <ability name="Ride">
+
+        <charme>
+            <title>
+CHARGE OF ONE HUNDRED GENERALS
+            </title>
+            <inner>
+Cost: Varies
+Type: Supplemental
+Duration: One charge
+Combo: Yes
+Minimum Abilities: Ride 3, War 3
+Minimum Essence: 2
+Effect: The Dragon-Blood must pay 1 Willpower plus 1 mote
+per horse and rider affected, including the Dragon-Blood
+herself. For the duration of a single charge, all of the riders
+attack on the Dragon-Blood’s tick, and all of their attacks
+are resolved before any delayed attack actions on the part of
+the defenders. Furthermore, the player of any defender who
+suffers damage must make any immediate Ride or Athletics
+roll to avoid his character being dismounted or knocked
+down. The Dragon-Blood must ride with the charging allies,
+who cannot number more than (Essence x 5).
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+DANCE OF THE JADE BRIDLE
+            </title>
+            <inner>
+Cost: 10m + 1wp
+Type: Supplemental
+Duration: Special
+Combo: Yes
+Minimum Ability: Ride 5
+Minimum Essence: 3
+Effect: The Dragon-Blood can tame virtually any animal
+big enough to carry him and use it as a mount. The DragonBlood’s player must roll (Charisma + Ride), opposed by the
+beast’s (Stamina + Willpower). The Dragon-Blood must
+also roleplay “breaking” the mount, which, in the case of
+very dangerous animals or flying creatures, can be quite
+dangerous if the attempt fails. If the attempt succeeds, the
+Dragon-Blood (and only the Dragon-Blood) can command
+the creature and use it as a mount.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+EBONY SPUR TECHNIQUE
+            </title>
+            <inner>
+Cost: Varies
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Ride 3
+Minimum Essence: 2
+Effect: With this Charm, the Dragon-Blooded becomes more
+efficient at employing the advantages of mounted combat.
+After reflexively rolling Dexterity + Ride, the Dragon-Blooded
+can add his Ride Ability to his damage dice in hand-to-hand
+attacks made while mounted.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+ELEMENTAL HALO’S MERCY
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Ride 4
+Minimum Essence: 3
+Effect: The baleful effects of the Dragon-Blooded anima
+banners usually preclude the use of horses in combat situations. This Charm can alleviate those effects temporarily.
+The Dragon-Blooded spends 3 motes while mounted, and
+for one scene, the steed will suffer no wound effects from
+his anima banner.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+ELEMENTAL HEART COMPANION
+            </title>
+            <inner>
+Cost: 5m (committed)
+Type: Simple
+Duration: Varies
+Combo: Yes
+Minimum Ability: Ride 5
+Minimum Essence: 3
+Effect: While Elemental Halo’s Mercy will permit a mount to
+resist the baleful effects of a Dragon-Blooded’s anima banner
+for at least the duration of a combat, eventually, the mount
+will die. Some Dragon-Blooded, however, have such close
+CHAPTER ONE • THE DRAGON-BLOODED 35
+relations with faithful steeds that the riders are unwilling to
+see their mounts perish. With this Charm, a Dragon-Blood
+can permanently attune herself to a particular mount (which
+must also be a familiar) so that it is effectively a part of her.
+While this Essence is committed, the mount is immune to the
+anima fl ux of its Dragon-Blooded master (and only its master),
+just as the Dragon-Blood’s personal possessions are.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+DRAGON-GRACED MOUNT
+            </title>
+            <inner>
+Cost: 10m, 1wp
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Ride 5
+Minimum Essence: 4
+Effect: For the duration of the scene, the Dragon-Blood’s horse
+gains the benefits of Elemental Heart Companion; this Charm
+only costs 5 motes and a Willpower if the Dragon-Blood has
+already committed 5 motes to the steed for the Elemental
+Heart Companion Charm. More importantly, for the Charm’s
+duration, the steed itself gains an elemental anima appropriate to the Dragon-Blood’s aspect, giving the animal special
+abilities. The mounts of Air Aspects are immune to cold
+and multiply their jumping distances by the rider’s Essence.
+The mounts of Earth Aspects gain a bonus to bashing and
+lethal soak equal to the rider’s Essence, and a mount can also
+soak lethal damage with its full Stamina. The mounts of Fire
+Aspects multiply their movement rate by the rider’s Essence.
+The mounts of Water Aspects gain the ability to breathe and
+complete freedom of movement while underwater, exactly
+like the Water Aspect anima power. Finally, the mounts of
+Wood can move through wooded areas without suffering any
+penalty or decrease in movement rate, and a mount’s tracks
+will be untraceable absent the use of Charms
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+HEAVEN-GRACED RIDING TECHNIQUE
+            </title>
+            <inner>
+Cost: 3m
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Ride 2
+Minimum Essence: 1
+Effect: For one action, the Dragon-Blooded may either add
+his Ride Ability in yards to his mount’s movement rate,
+or he can add that amount to the distance the mount can
+safely jump.
+            </inner>
+    </charme>
+    </ability>
+    <ability name="Sail">
+
+
+
+        <charme>
+            <title>
+FINE PASSAGE NEGOTIATING STYLE
+            </title>
+            <inner>
+Cost: 3m
+Type: Reflexive
+Duration: One scene
+Combo: Yes
+Minimum Ability: Sail 4
+Minimum Essence: 2
+Effect: For the duration of a scene, the Dragon-Blooded
+intuitively knows of any submerged hazards within fi ve miles
+of her current location (assuming she is at sea, of course),
+effectively adding three dice to any Sail rolls that involve
+navigating through such hazards.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+HURRICANE PREDICTING GLANCE
+            </title>
+            <inner>
+Cost: 1m
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Sail 2
+Minimum Essence: 1
+Effect: The Dragon-Blood can predict the weather for the
+next 24-hour period, although she cannot predict supernatural
+changes to the weather made after her prediction.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+STORM-OUTRUNNING TECHNIQUE
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Sail 3
+Minimum Essence: 2
+Effect: For the duration of a scene, the Dragon-Blooded can
+double his ship’s rate of movement. While not a long-term
+aid to travel, this Charm can ensure that one ship will beat
+another into port or that the ship can outrun bad weather
+or pirates.
+            </inner>
+        </charme>
+    </ability>
+    <ability name="Socialize">
+
+        <charme>
+            <title>
+FRIEND-TO-ALL-NATIONS ATTITUDE
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Socialize 3
+Minimum Essence: 2
+Effect: If the Dragon-Blooded can speak the local language,
+she can ignore any Social penalties caused by being a foreigner. Even if she cannot speak the local language, any
+Social penalties caused by being a foreigner are reduced by
+her Essence.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SWEETEN THE TAP METHOD
+            </title>
+            <inner>
+Cost: 2m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Socialize 3
+Minimum Essence: 1
+Effect: The Dragon-Blood can increase the effects of alcohol
+consumed in the area, reducing the difficulty of all Socialize
+rolls by 1 for the scene.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WARM-FACED SEDUCTION STYLE
+            </title>
+            <inner>
+Cost: 1m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Socialize 3
+Minimum Essence: 2
+Effect: During a seduction attempt only, the Dragon-Blood
+can use this Charm to add fi ve dice to his Socialize Ability
+or to double its normal rating, whichever is less.
+            </inner>
+        </charme>
+    </ability>
+    <ability name="Stealth">
+        <charme>
+            <title>
+DRAGON SHROUD TECHNIQUE
+            </title>
+            <inner>
+Cost: 3+m, 1wp
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Stealth 5
+Minimum Essence: 4
+Effect: The Dragon-Blood can bend light around himself,
+conferring virtual invisibility. His identity is completely
+concealed, and every 3 motes spent adds one automatic
+success to Stealth-related rolls.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+FEELING-THE-AIR TECHNIQUE
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Stealth 2
+Minimum Essence: 2
+Effect: The Dragon-Blood retains total spatial awareness
+even in total darkness. He cannot read or observe color, but
+he can move freely and the Charm reduces blind-fighting
+penalties by half.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+SOUNDLESS ACTION PRANA
+            </title>
+            <inner>
+Cost: 1m per minute
+Type: Simple
+Duration: Varies
+Combo: Yes
+Minimum Ability: Stealth 3
+Minimum Essence: 3
+Effect: For one minute per mote spent, the Dragon-Blooded
+can eliminate any noise she directly produces, but not sounds
+she causes that are not connected to her person. That is, she
+could force open a door in complete silence, but if she threw a
+rock through a window, the sound would be heard clearly.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WIND-WALKING TECHNIQUE
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: One day
+Combo: Yes
+Minimum Ability: Survival 3
+Minimum Essence: 2
+Effect: While this Charm is active, persons attempting to track
+the Dragon-Blood without supernatural aid are completely
+unable to do so. If the tracker is using supernatural aid, such
+as Quarry Revelation Technique (see above), the two effects
+cancel each other out, and normal tracking rules apply.
+            </inner>
+        </charme>
+    </ability>
+    <ability name="Thrown">
+        <charme>
+            <title>
+INVISIBLY HIDDEN CHAKRAM METHOD
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Thrown 4
+Minimum Essence: 3
+Effect: The Dragon-Blood may hide a number of weapons
+elsewhere to be summoned back later. Each weapon costs 10
+Essence and 1 Willpower. When the Dragon-Blood is ready
+to attack, she can summon any or all of them and attack on
+the same tick with her full (Dexterity + Thrown) pool. The
+Dragon-Blood can hide as many as (Essence x 2) weapons.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+LOYAL WEAPON
+            </title>
+            <inner>
+Cost: 1m
+Type: Supplemental
+Duration: Instant
+Combo: Yes
+Minimum Ability: Thrown 3
+Minimum Essence: 2
+Effect: Any weapon thrown by the Dragon-Blooded (including thrown melee weapons) will return to her hand by the
+beginning of his next action.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+PERSISTENT HORNET ATTACK
+            </title>
+            <inner>
+Cost: 3m
+Type: Simple
+Duration: (Essence) actions
+Combo: Yes
+Minimum Ability: Thrown 3
+Minimum Essence: 2
+Effect: After the Dragon-Blood throws a weapon at a target,
+the weapon will continue to attack for (Essence) actions.
+The weapon attacks on the Dragon-Blood’s tick, and the
+Dragon-Blood’s player rolls (Perception + Thrown) for the
+weapon to hit.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+VENGEFUL GUST COUNTERATTACK
+            </title>
+            <inner>
+Cost: 2m
+Type: Reflexive
+Duration: Instant
+Combo: Yes
+Minimum Ability: Thrown 4
+Minimum Essence: 2
+Effect: If the Dragon-Blooded is the target of a ranged attack,
+his player can opt to roll (Dexterity + Thrown) in place of
+relying on the Exalt’s normal DV. Each success on this roll
+subtracts from the attacker’s successes, and if his successes
+exceed the attacker’s, the projectile reverses course, attacking his opponent with a number of attack dice equal to his
+net successes.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WHIRLWIND SHIELD FORM
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: Thrown 3
+Minimum Essence: 2
+Effect: The Dragon-Blood can deflect ranged attacks aimed
+at him or at allies at a cost of 3 motes plus 1 mote per each
+ally protected. While the Charm is in effect, the DragonBlood’s Essence is automatically subtracted from any ranged
+attack dice pools rolled against him or his allies, in addition
+to the normal effects of DV.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WIND ARMOR TECHNIQUE
+            </title>
+            <inner>
+Cost: 1m per 1L/1B
+Type: Simple
+Duration: Committed
+Combo: Yes
+Minimum Ability: Thrown 5
+Minimum Essence: 3
+Effect: The Dragon-Blood can fashion armor for herself out
+of swirling air, adding 1L and 1B soak per mote spent. The
+armor will last as long as the Essence is committed or until
+the Dragon-Blood sleeps, whichever comes fi rst, and it is
+fully compatible with normal armor.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+WIND WEAPONS
+            </title>
+            <inner>
+Cost: 3m per weapon
+Type: Simple
+Duration: Instant
+Combo: Yes
+Minimum Ability: Thrown 5
+Minimum Essence: 3
+Effect: The Dragon-Blood can fashion throwing weapons
+from the very air itself. Each weapon has a base damage and
+accuracy equal to the Dragon-Blood’s Essence and a range of
+(Essence x 10) yards, and the Dragon-Blooded can create up
+to (Essence) weapons in a tick. Once created, each weapon is
+thrown refl exively with the Dragon-Blood’s full dice pool.
+            </inner>
+        </charme>
+    </ability>
+    <ability name="War">
+        <charme>
+            <title>
+BLAZING COURAGEOUS SWORDSMEN INSPIRATION
+            </title>
+            <inner>
+Cost: Varies
+Type: Simple
+Duration: One scene
+Combo: Yes
+Minimum Ability: War 3
+Minimum Essence: 2
+Effect: The Dragon-Blood spends 1 mote per warrior that
+she commands, and each soldier will gain one additional -0
+health level for the duration of the scene.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+ELEMENTAL BATTLEFIELD
+            </title>
+            <inner>
+Cost: 10m
+Type: Simple
+Duration: One scene
+Combo: No
+Minimum Ability: War 3
+Minimum Essence: 3
+Effect: The Dragon-Blood can impose his elemental anima
+on a large area equal to his (Essence x 100) yards in radius
+and centered on any outdoor location within his line of
+sight. Anyone who comes within this area (which is most
+commonly a battlefield of some sort) will suffer an environmental penalty on all actions equal to the Dragon-Blood’s
+War Ability rating, as earth tremors, rainstorms, snow
+flurries, clouds of acrid smoke or simply fast-growing briar
+patches spring into existence to harry those caught within.
+The exact effect depends on the Dragon-Blood’s aspect, but
+the environmental penalty is the same, regardless of aspect.
+Dragon-Blooded of the same aspect as the one who invoked
+the Charm are immune to the environmental penalty, as are
+any individuals attuned to him through the Charm Enfolded
+in the Dragon’s Wings. Dragon-Blooded of other aspects are
+immune if their animas are at the 8+ motes level.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+ENFOLDED IN THE DRAGON’S WINGS
+            </title>
+            <inner>
+Cost: 1m per soldier
+Type: Reflexive
+Duration: One day
+Combo: No
+Minimum Ability: War 1
+Minimum Essence: 2
+Effect: For each mote committed, the Dragon-Blooded
+may temporarily render one soldier partially immune to the
+damaging effects of her anima. Any damage inflicted on a
+protected soldier by the Dragon-Blooded’s anima or by other
+elemental effects attributable to her aspect is reduced by the
+Dragon-Blood’s Essence. The nature of this Charm is such
+that a Dragon-Blood can only protect a mortal soldier who is
+considered “under her command.” Thus, neither bystanders
+nor fellow Exalts can be protected by this Charm.
+            </inner>
+        </charme>
+
+        <charme>
+            <title>
+PHANTOM-WARRIOR HORDE
+            </title>
+            <inner>
+Cost: 2m
+Type: Reflxive
+Duration: Instant
+Combo: Yes
+Minimum Ability: War 2
+Minimum Essence: 2
+Effect: The area around the Dragon-Blooded appears to be
+filled with warriors fashioned out of the element to which he
+is aspected. While the phantoms are illusory, they are also
+quite intimidating, and any enemy of the Dragon-Blooded
+in the area must roll his Valor or be at -1 on all dice pools
+for the next action. Mortals must score as many successes on
+the Valor roll as the Dragon-Blood’s Presence, while beings
+with an Essence higher than 1 need only one success.
+ Charms denoted with an asterisk may only be used by
+Dragon-Blooded with Immaculate training in the appropriate style.
+            </inner>
+        </charme>
+
+    </ability>
+
+</root>
+
