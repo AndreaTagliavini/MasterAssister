@@ -5,7 +5,7 @@ Currently the only feature that this tool provides is "charm-retrivial", but it 
 # Prerequisites:
 This project uses python3.* (recommended 3.7), so the latter is mandatory to execute the program.
 
-#Installation
+# Installation
 
 1. Clone the repository using the following command:
     ```console
